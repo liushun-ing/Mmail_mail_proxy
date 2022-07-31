@@ -1,0 +1,516 @@
+[INFO][22-23-07][com.example.smtpclient.email_package.getter.GetterClient]sender is shutdown...
+[INFO][22-23-07][com.example.smtpclient.email_package.sender.SenderClient]sender is shutdown...
+[INFO][22-38-08][com.example.smtpclient.controller.LoginController]/login
+[INFO][22-59-09][com.example.smtpclient.controller.LoginController]/login
+[INFO][22-00-09][com.example.smtpclient.controller.LoginController]/login
+[INFO][22-04-09][com.example.smtpclient.controller.LoginController]/login
+[INFO][22-04-09][com.example.smtpclient.controller.LoginController]/login
+[INFO][22-24-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-29-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-30-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-30-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:30:24: 982cbcfffe793b37-00003c78-00000000-1a530b40d49688d8-002933c7与服务器建立连接
+[INFO][22-30-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-30-13][com.example.smtpclient.email_package.getter.GetterClientHandler]002933c7command:0rev:+OK pop3 server ready
+[DEBUG][22-30-13][com.example.smtpclient.email_package.getter.GetterClientHandler]连接出现异常：null
+[INFO][22-30-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:30:24: 002933c7断开连接
+[INFO][22-34-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-34-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:34:53: 982cbcfffe793b37-00003464-00000000-00c8395b971aa72c-89867826与服务器建立连接
+[INFO][22-34-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-34-13][com.example.smtpclient.email_package.getter.GetterClientHandler]89867826command:0rev:+OK pop3 server ready
+[DEBUG][22-34-13][com.example.smtpclient.email_package.getter.GetterClientHandler]连接出现异常
+[INFO][22-34-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:34:54: 89867826断开连接
+[INFO][22-39-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-39-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:39:33: 982cbcfffe793b37-00004d5c-00000000-0df5d3a0d51eec64-2b985451与服务器建立连接
+[INFO][22-39-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-39-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2b985451command:0rev:+OK pop3 server ready
+[DEBUG][22-39-13][com.example.smtpclient.email_package.getter.GetterClientHandler]连接出现异常
+[INFO][22-39-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:39:33: 2b985451断开连接
+[INFO][22-43-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-43-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:43:16: 982cbcfffe793b37-000001a8-00000000-25eca2f72e025365-c89358c7与服务器建立连接
+[INFO][22-43-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-43-13][com.example.smtpclient.email_package.getter.GetterClientHandler]c89358c7command:0rev:+OK pop3 server ready
+[DEBUG][22-43-13][com.example.smtpclient.email_package.getter.GetterClientHandler]连接出现异常
+[INFO][22-43-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:43:16: c89358c7断开连接
+[INFO][22-46-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-46-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:46:49: 982cbcfffe793b37-00002a10-00000000-3f9c57be600792c3-ba35d96d与服务器建立连接
+[INFO][22-46-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:46:49: ba35d96d断开连接
+[DEBUG][22-46-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3失败
+[INFO][22-50-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-50-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:50:11: 982cbcfffe793b37-00003284-00000000-09474805ebfca9b9-305a19ed与服务器建立连接
+[INFO][22-50-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:50:11: 305a19ed断开连接
+[DEBUG][22-50-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3失败
+[INFO][22-51-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-52-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:52:03: 982cbcfffe793b37-000053cc-00000000-1df8ae419ff25bfe-00b5cb48与服务器建立连接
+[INFO][22-52-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:52:03: 00b5cb48断开连接
+[DEBUG][22-52-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3失败
+[INFO][22-53-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-53-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:53:22: 982cbcfffe793b37-000038c0-00000000-07db3997d7f1908c-7c9a78d9与服务器建立连接
+[INFO][22-53-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:53:22: 7c9a78d9断开连接
+[DEBUG][22-53-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3失败
+[INFO][22-54-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-54-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:54:18: 982cbcfffe793b37-00002444-00000000-2ba78c6f79f06bac-4a8ef829与服务器建立连接
+[INFO][22-54-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:54:18: 4a8ef829断开连接
+[DEBUG][22-54-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3失败
+[INFO][22-55-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-55-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:55:16: 982cbcfffe793b37-00004a30-00000000-21507b4e31f74de2-235f7a1e与服务器建立连接
+[INFO][22-55-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-55-13][com.example.smtpclient.email_package.getter.GetterClientHandler]235f7a1ecommand:0rev:+OK pop3 server ready
+[DEBUG][22-55-13][com.example.smtpclient.email_package.getter.GetterClientHandler]连接出现异常
+[INFO][22-55-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:55:16: 235f7a1e断开连接
+[INFO][22-57-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-57-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:57:40: 982cbcfffe793b37-00000128-00000000-3257279ff5f5803f-11f9a0c5与服务器建立连接
+[INFO][22-57-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-57-13][com.example.smtpclient.email_package.getter.GetterClientHandler]11f9a0c5command:0rev:+OK pop3 server ready
+[DEBUG][22-57-13][com.example.smtpclient.email_package.getter.GetterClientHandler]11f9a0c5command:1rev:+OK user success
+[DEBUG][22-57-13][com.example.smtpclient.email_package.getter.GetterClientHandler]11f9a0c5command:2rev:+OK pass success, authorized
+[DEBUG][22-57-13][com.example.smtpclient.email_package.getter.GetterClientHandler]11f9a0c5command:3rev:+OK
+[DEBUG][22-57-13][com.example.smtpclient.email_package.getter.GetterClientHandler]连接出现异常
+[DEBUG][22-57-13][com.example.smtpclient.email_package.getter.GetterClientHandler]11f9a0c5command:3rev:count: 1
+[DEBUG][22-57-13][com.example.smtpclient.email_package.getter.GetterClientHandler]11f9a0c5command:3rev:totalSize: 35
+[INFO][22-57-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 13:57:40: 11f9a0c5断开连接
+[INFO][22-00-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-00-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:00:33: 982cbcfffe793b37-00004200-00000000-2ddf27ea650a257f-e7962578与服务器建立连接
+[INFO][22-00-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-00-13][com.example.smtpclient.email_package.getter.GetterClientHandler]e7962578command:0rev:+OK pop3 server ready
+[DEBUG][22-00-13][com.example.smtpclient.email_package.getter.GetterClientHandler]e7962578command:1rev:+OK user success
+[DEBUG][22-00-13][com.example.smtpclient.email_package.getter.GetterClientHandler]e7962578command:2rev:+OK pass success, authorized
+[DEBUG][22-00-13][com.example.smtpclient.email_package.getter.GetterClientHandler]e7962578command:3rev:+OK
+[DEBUG][22-00-13][com.example.smtpclient.email_package.getter.GetterClientHandler]连接出现异常
+[DEBUG][22-00-13][com.example.smtpclient.email_package.getter.GetterClientHandler]e7962578command:3rev:count: 1
+[DEBUG][22-00-13][com.example.smtpclient.email_package.getter.GetterClientHandler]e7962578command:3rev:totalSize: 35
+[INFO][22-00-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:00:33: e7962578断开连接
+[INFO][22-14-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:14:21: 982cbcfffe793b37-00004200-00000001-0e89dddc8686c9a7-2fcab8b1与服务器建立连接
+[INFO][22-14-13][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2fcab8b1command:0rev:+OK pop3 server ready
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2fcab8b1command:1rev:+OK user success
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2fcab8b1command:2rev:+OK pass success, authorized
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2fcab8b1command:3rev:+OK
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]连接出现异常
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2fcab8b1command:3rev:count: 1
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2fcab8b1command:3rev:totalSize: 35
+[INFO][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:14:22: 2fcab8b1断开连接
+[INFO][22-16-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-16-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:16:22: 982cbcfffe793b37-00000f00-00000000-2db4e086a284a1ed-99a7e263与服务器建立连接
+[INFO][22-16-13][com.example.smtpclient.email_package.getter.GetterClient]127.0.0.1 110连接pop3成功
+[DEBUG][22-16-13][com.example.smtpclient.email_package.getter.GetterClientHandler]99a7e263command:0rev:+OK pop3 server ready
+[DEBUG][22-16-13][com.example.smtpclient.email_package.getter.GetterClientHandler]99a7e263command:1rev:+OK user success
+[DEBUG][22-16-13][com.example.smtpclient.email_package.getter.GetterClientHandler]99a7e263command:2rev:+OK pass success, authorized
+[DEBUG][22-16-13][com.example.smtpclient.email_package.getter.GetterClientHandler]99a7e263command:3rev:+OK
+[DEBUG][22-16-13][com.example.smtpclient.email_package.getter.GetterClientHandler]连接出现异常
+[DEBUG][22-16-13][com.example.smtpclient.email_package.getter.GetterClientHandler]99a7e263command:3rev:count: 1
+[DEBUG][22-16-13][com.example.smtpclient.email_package.getter.GetterClientHandler]99a7e263command:3rev:totalSize: 35
+[INFO][22-16-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:16:23: 99a7e263断开连接
+[INFO][22-20-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-21-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:21:02: 982cbcfffe793b37-00002c80-00000000-1cf974992198e820-b9b15dab与服务器建立连接
+[INFO][22-21-13][com.example.smtpclient.email_package.getter.GetterClient]127.0.0.1 110连接pop3成功
+[DEBUG][22-21-13][com.example.smtpclient.email_package.getter.GetterClientHandler]b9b15dabcommand:0rev:+OK pop3 server ready
+[DEBUG][22-21-13][com.example.smtpclient.email_package.getter.GetterClientHandler]b9b15dabcommand:1rev:+OK user success
+[DEBUG][22-21-13][com.example.smtpclient.email_package.getter.GetterClientHandler]b9b15dabcommand:2rev:+OK pass success, authorized
+[DEBUG][22-21-13][com.example.smtpclient.email_package.getter.GetterClientHandler]b9b15dabcommand:3rev:+OK
+[DEBUG][22-21-13][com.example.smtpclient.email_package.getter.GetterClientHandler]b9b15dabcommand:4rev:count: 1
+[DEBUG][22-21-13][com.example.smtpclient.email_package.getter.GetterClientHandler]b9b15dabcommand:4rev:totalSize: 35
+[INFO][22-21-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:21:03: b9b15dab断开连接
+[INFO][22-37-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-37-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:37:37: 982cbcfffe793b37-00001b10-00000000-24aa04dc39681646-d7dbeb8c与服务器建立连接
+[INFO][22-37-13][com.example.smtpclient.email_package.getter.GetterClient]127.0.0.1 110连接pop3成功
+[DEBUG][22-37-13][com.example.smtpclient.email_package.getter.GetterClientHandler]d7dbeb8ccommand:0rev:+OK pop3 server ready
+[DEBUG][22-37-13][com.example.smtpclient.email_package.getter.GetterClientHandler]d7dbeb8ccommand:1rev:+OK user success
+[DEBUG][22-37-13][com.example.smtpclient.email_package.getter.GetterClientHandler]d7dbeb8ccommand:2rev:+OK pass success, authorized
+[DEBUG][22-37-13][com.example.smtpclient.email_package.getter.GetterClientHandler]d7dbeb8ccommand:3rev:+OK 1 35
+[DEBUG][22-37-13][com.example.smtpclient.email_package.getter.GetterClientHandler]d7dbeb8ccommand:4rev:-ERR invalid command
+[INFO][22-37-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:37:37: d7dbeb8c断开连接
+[INFO][22-38-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-38-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:38:43: 982cbcfffe793b37-000017fc-00000000-32d2ce9eb16f1604-8fca6c94与服务器建立连接
+[INFO][22-38-13][com.example.smtpclient.email_package.getter.GetterClient]127.0.0.1 110连接pop3成功
+[DEBUG][22-38-13][com.example.smtpclient.email_package.getter.GetterClientHandler]8fca6c94command:0rev:+OK pop3 server ready
+[DEBUG][22-38-13][com.example.smtpclient.email_package.getter.GetterClientHandler]8fca6c94command:1rev:+OK user success
+[DEBUG][22-38-13][com.example.smtpclient.email_package.getter.GetterClientHandler]8fca6c94command:2rev:+OK pass success, authorized
+[DEBUG][22-38-13][com.example.smtpclient.email_package.getter.GetterClientHandler]8fca6c94command:3rev:+OK 1 35
+[DEBUG][22-38-13][com.example.smtpclient.email_package.getter.GetterClientHandler]8fca6c94command:4rev:+OK fromEmail:123456@hnu.com sendTime:Wed Apr 13 20:00:54 CST 2022 size:35 data:it's for test
+[DEBUG][22-38-13][com.example.smtpclient.email_package.getter.GetterClientHandler]连接出现异常
+[DEBUG][22-38-13][com.example.smtpclient.email_package.getter.GetterClientHandler]8fca6c94command:4rev:smtp is very good.
+[DEBUG][22-38-13][com.example.smtpclient.email_package.getter.GetterClientHandler]8fca6c94command:4rev:
+[INFO][22-38-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:38:43: 8fca6c94断开连接
+[INFO][22-41-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-41-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:41:51: 982cbcfffe793b37-000048d8-00000000-0100089a876df617-44e25f10与服务器建立连接
+[INFO][22-41-13][com.example.smtpclient.email_package.getter.GetterClient]127.0.0.1 110连接pop3成功
+[DEBUG][22-41-13][com.example.smtpclient.email_package.getter.GetterClientHandler]44e25f10command:0rev:+OK pop3 server ready
+[DEBUG][22-41-13][com.example.smtpclient.email_package.getter.GetterClientHandler]44e25f10command:1rev:+OK user success
+[DEBUG][22-41-13][com.example.smtpclient.email_package.getter.GetterClientHandler]44e25f10command:2rev:+OK pass success, authorized
+[DEBUG][22-41-13][com.example.smtpclient.email_package.getter.GetterClientHandler]44e25f10command:3rev:+OK 1 35
+[DEBUG][22-41-13][com.example.smtpclient.email_package.getter.GetterClientHandler]44e25f10command:4rev:+OK fromEmail:123456@hnu.com sendTime:Wed Apr 13 20:00:54 CST 2022 size:35 data:it's for test
+[DEBUG][22-41-13][com.example.smtpclient.email_package.getter.GetterClientHandler]连接出现异常
+[DEBUG][22-41-13][com.example.smtpclient.email_package.getter.GetterClientHandler]44e25f10command:4rev:smtp is very good.
+[DEBUG][22-41-13][com.example.smtpclient.email_package.getter.GetterClientHandler]44e25f10command:4rev:
+[INFO][22-41-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:41:51: 44e25f10断开连接
+[INFO][22-42-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-42-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:42:37: 982cbcfffe793b37-000048d8-00000001-151846005b6ca8f5-def206f2与服务器建立连接
+[INFO][22-42-13][com.example.smtpclient.email_package.getter.GetterClient]127.0.0.1 110连接pop3成功
+[DEBUG][22-42-13][com.example.smtpclient.email_package.getter.GetterClientHandler]def206f2command:0rev:+OK pop3 server ready
+[DEBUG][22-42-13][com.example.smtpclient.email_package.getter.GetterClientHandler]def206f2command:1rev:+OK user success
+[DEBUG][22-42-13][com.example.smtpclient.email_package.getter.GetterClientHandler]def206f2command:2rev:+OK pass success, authorized
+[DEBUG][22-42-13][com.example.smtpclient.email_package.getter.GetterClientHandler]def206f2command:3rev:+OK 1 35
+[DEBUG][22-42-13][com.example.smtpclient.email_package.getter.GetterClientHandler]def206f2command:4rev:+OK fromEmail:123456@hnu.com sendTime:1649851254000 size:35 data:it's for test
+[DEBUG][22-42-13][com.example.smtpclient.email_package.getter.GetterClientHandler]连接出现异常
+[DEBUG][22-42-13][com.example.smtpclient.email_package.getter.GetterClientHandler]def206f2command:4rev:smtp is very good.
+[DEBUG][22-42-13][com.example.smtpclient.email_package.getter.GetterClientHandler]def206f2command:4rev:
+[INFO][22-42-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:42:37: def206f2断开连接
+[INFO][22-52-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-52-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:52:39: 982cbcfffe793b37-000053c4-00000000-3599019872fbd738-565b70b4与服务器建立连接
+[INFO][22-52-13][com.example.smtpclient.email_package.getter.GetterClient]127.0.0.1 110连接pop3成功
+[DEBUG][22-52-13][com.example.smtpclient.email_package.getter.GetterClientHandler]565b70b4command:0rev:+OK pop3 server ready
+[DEBUG][22-52-13][com.example.smtpclient.email_package.getter.GetterClientHandler]565b70b4command:1rev:+OK user success
+[DEBUG][22-52-13][com.example.smtpclient.email_package.getter.GetterClientHandler]565b70b4command:2rev:+OK pass success, authorized
+[DEBUG][22-52-13][com.example.smtpclient.email_package.getter.GetterClientHandler]565b70b4command:3rev:+OK 1 35
+[DEBUG][22-52-13][com.example.smtpclient.email_package.getter.GetterClientHandler]565b70b4command:4rev:+OK fromEmail:123456@hnu.com sendTime:1649851254000 size:35 data:it's for test
+[DEBUG][22-52-13][com.example.smtpclient.email_package.getter.GetterClientHandler]565b70b4command:5rev:smtp is very good.
+[DEBUG][22-52-13][com.example.smtpclient.email_package.getter.GetterClientHandler]565b70b4command:5rev:
+[INFO][22-52-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 14:52:39: 565b70b4断开连接
+[INFO][22-14-13][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 15:14:39: 982cbcfffe793b37-00004fdc-00000000-05fb4fa6d96ffad6-63a49c86与服务器建立连接
+[INFO][22-14-13][com.example.smtpclient.email_package.getter.GetterClient]127.0.0.1 110连接pop3成功
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]63a49c86command:0rev:+OK pop3 server ready
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]63a49c86command:1rev:+OK user success
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]63a49c86command:2rev:+OK pass success, authorized
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]63a49c86command:3rev:+OK 1 35
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]63a49c86command:4rev:+OK fromEmail:123456@hnu.com sendTime:1649851254000 size:35 data:aXQncyBmb3IgdGVzdA0Kc210cCBpcyB2ZXJ5IGdvb2QuDQo=
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]63a49c86command:5rev:+OK tag success
+[DEBUG][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]63a49c86command:6rev:+OK quit success, bye
+[INFO][22-14-13][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-13 15:14:39: 63a49c86断开连接
+[INFO][22-18-16][com.example.smtpclient.controller.EmailController]sendEmail
+[INFO][22-18-16][com.example.smtpclient.email_package.sender.SenderClientHandler]2022-05-16 15:18:25: 982cbcfffe793b37-00001e84-00000000-31fb34e812b804e6-686f9946与服务器建立连接
+[INFO][22-18-16][com.example.smtpclient.email_package.sender.SenderClient]110.40.230.26 25连接smtp成功
+[INFO][22-18-16][com.example.smtpclient.email_package.sender.SenderClientHandler]2022-05-16 15:18:26: 686f9946断开连接
+[INFO][22-33-16][com.example.smtpclient.controller.EmailController]sendEmail
+[INFO][22-33-16][com.example.smtpclient.email_package.sender.SenderClientHandler]2022-05-16 15:33:07: 982cbcfffe793b37-00003f9c-00000000-3664f692dd4b7787-1ce4082f与服务器建立连接
+[INFO][22-33-16][com.example.smtpclient.email_package.sender.SenderClient]110.40.230.26 25连接smtp成功
+[INFO][22-33-16][com.example.smtpclient.email_package.sender.SenderClientHandler]2022-05-16 15:33:07: 1ce4082f断开连接
+[INFO][22-47-16][com.example.smtpclient.controller.EmailController]sendEmail
+[INFO][22-47-16][com.example.smtpclient.email_package.sender.SenderClientHandler]2022-05-16 15:47:25: 982cbcfffe793b37-00005a74-00000000-18bacfa8c7958f87-1f08c112与服务器建立连接
+[INFO][22-47-16][com.example.smtpclient.email_package.sender.SenderClient]110.40.230.26 25连接smtp成功
+[INFO][22-47-16][com.example.smtpclient.email_package.sender.SenderClientHandler]2022-05-16 15:47:25: 1f08c112断开连接
+[INFO][22-37-23][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-38-23][com.example.smtpclient.controller.LoginController]/login
+[ERROR][22-38-23][com.example.smtpclient.controller.LoginController]login：
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'register_time' in 'field list'
+### The error may exist in com/example/smtpclient/mapper/UserMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  user_id,account,password,phone,nickname,type,authority,avatar,is_disabled,register_time  FROM user     WHERE (account = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'register_time' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'register_time' in 'field list'
+[INFO][22-38-23][com.example.smtpclient.controller.LoginController]/login
+[ERROR][22-38-23][com.example.smtpclient.controller.LoginController]login：
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'register_time' in 'field list'
+### The error may exist in com/example/smtpclient/mapper/UserMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  user_id,account,password,phone,nickname,type,authority,avatar,is_disabled,register_time  FROM user     WHERE (account = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'register_time' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'register_time' in 'field list'
+[INFO][22-39-23][com.example.smtpclient.controller.LoginController]/login
+[INFO][22-40-23][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-40-23][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-40-23][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-23 23:40:45: 982cbcfffe793b37-00006198-00000000-0769cfbc547f6d11-45ad5b97与服务器建立连接
+[INFO][22-40-23][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-40-23][com.example.smtpclient.email_package.getter.GetterClientHandler]45ad5b97command:0rev:+OK pop3 server ready
+[DEBUG][22-40-23][com.example.smtpclient.email_package.getter.GetterClientHandler]45ad5b97command:1rev:+OK user success
+[DEBUG][22-40-23][com.example.smtpclient.email_package.getter.GetterClientHandler]45ad5b97command:2rev:+OK pass success, authorized
+[DEBUG][22-40-23][com.example.smtpclient.email_package.getter.GetterClientHandler]45ad5b97command:3rev:+OK 0 0
+[DEBUG][22-40-23][com.example.smtpclient.email_package.getter.GetterClientHandler]45ad5b97command:4rev:+OK quit success, bye
+[INFO][22-40-23][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-23 23:40:45: 45ad5b97断开连接
+[INFO][22-41-23][com.example.smtpclient.controller.UserController]uploadAvatar
+[INFO][22-45-23][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-46-23][com.example.smtpclient.controller.UserController]uploadAvatar
+[INFO][22-47-23][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-47-23][com.example.smtpclient.controller.UserController]uploadAvatar
+[INFO][22-48-23][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-49-23][com.example.smtpclient.controller.UserController]uploadAvatar
+[INFO][22-49-23][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-49-23][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-23 23:49:27: 982cbcfffe793b37-00000ce0-00000000-1fb61e8b898764d7-5fcb98c4与服务器建立连接
+[INFO][22-49-23][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-49-23][com.example.smtpclient.email_package.getter.GetterClientHandler]5fcb98c4command:0rev:+OK pop3 server ready
+[DEBUG][22-49-23][com.example.smtpclient.email_package.getter.GetterClientHandler]5fcb98c4command:1rev:+OK user success
+[DEBUG][22-49-23][com.example.smtpclient.email_package.getter.GetterClientHandler]5fcb98c4command:2rev:+OK pass success, authorized
+[DEBUG][22-49-23][com.example.smtpclient.email_package.getter.GetterClientHandler]5fcb98c4command:3rev:+OK 0 0
+[DEBUG][22-49-23][com.example.smtpclient.email_package.getter.GetterClientHandler]5fcb98c4command:4rev:+OK quit success, bye
+[INFO][22-49-23][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-23 23:49:28: 5fcb98c4断开连接
+[INFO][22-54-23][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-54-23][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-54-23][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-23 23:54:11: 982cbcfffe793b37-00000ce0-00000001-0753da6ff7bcbaaf-3ce05d37与服务器建立连接
+[INFO][22-54-23][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-54-23][com.example.smtpclient.email_package.getter.GetterClientHandler]3ce05d37command:0rev:+OK pop3 server ready
+[DEBUG][22-54-23][com.example.smtpclient.email_package.getter.GetterClientHandler]3ce05d37command:1rev:+OK user success
+[DEBUG][22-54-23][com.example.smtpclient.email_package.getter.GetterClientHandler]3ce05d37command:2rev:+OK pass success, authorized
+[DEBUG][22-54-23][com.example.smtpclient.email_package.getter.GetterClientHandler]3ce05d37command:3rev:+OK 0 0
+[DEBUG][22-54-23][com.example.smtpclient.email_package.getter.GetterClientHandler]3ce05d37command:4rev:+OK quit success, bye
+[INFO][22-54-23][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-23 23:54:11: 3ce05d37断开连接
+[INFO][22-55-23][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-56-23][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-56-23][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-00-24][com.example.smtpclient.service.impl.EmailServiceImpl]定时任务：自动清理删除达三十天的邮件
+[INFO][22-19-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-19-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-20-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-27-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-27-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 10:27:51: 982cbcfffe793b37-00000988-00000000-09f6130d5cbede4b-df22be7b与服务器建立连接
+[INFO][22-27-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-27-24][com.example.smtpclient.email_package.getter.GetterClientHandler]df22be7bcommand:0rev:+OK pop3 server ready
+[DEBUG][22-27-24][com.example.smtpclient.email_package.getter.GetterClientHandler]df22be7bcommand:1rev:+OK user success
+[DEBUG][22-27-24][com.example.smtpclient.email_package.getter.GetterClientHandler]df22be7bcommand:2rev:+OK pass success, authorized
+[DEBUG][22-27-24][com.example.smtpclient.email_package.getter.GetterClientHandler]df22be7bcommand:3rev:+OK 0 0
+[DEBUG][22-27-24][com.example.smtpclient.email_package.getter.GetterClientHandler]df22be7bcommand:4rev:+OK quit success, bye
+[INFO][22-27-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 10:27:53: df22be7b断开连接
+[INFO][22-27-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-29-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 10:29:06: 982cbcfffe793b37-00000988-00000001-129ab7a4133f030c-868ad28d与服务器建立连接
+[INFO][22-29-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]868ad28dcommand:0rev:+OK pop3 server ready
+[DEBUG][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]868ad28dcommand:1rev:+OK user success
+[DEBUG][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]868ad28dcommand:2rev:+OK pass success, authorized
+[DEBUG][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]868ad28dcommand:3rev:+OK 0 0
+[DEBUG][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]868ad28dcommand:4rev:+OK quit success, bye
+[INFO][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 10:29:06: 868ad28d断开连接
+[INFO][22-29-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-29-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 10:29:23: 982cbcfffe793b37-00000988-00000002-2879d864233f465b-43d290f6与服务器建立连接
+[INFO][22-29-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]43d290f6command:0rev:+OK pop3 server ready
+[DEBUG][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]43d290f6command:1rev:+OK user success
+[DEBUG][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]43d290f6command:2rev:+OK pass success, authorized
+[DEBUG][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]43d290f6command:3rev:+OK 0 0
+[DEBUG][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]43d290f6command:4rev:+OK quit success, bye
+[INFO][22-29-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 10:29:23: 43d290f6断开连接
+[INFO][22-29-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-30-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-30-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 10:30:48: 982cbcfffe793b37-00000988-00000003-0b09c0578b3d91f7-95259be1与服务器建立连接
+[INFO][22-30-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-30-24][com.example.smtpclient.email_package.getter.GetterClientHandler]95259be1command:0rev:+OK pop3 server ready
+[DEBUG][22-30-24][com.example.smtpclient.email_package.getter.GetterClientHandler]95259be1command:1rev:+OK user success
+[DEBUG][22-30-24][com.example.smtpclient.email_package.getter.GetterClientHandler]95259be1command:2rev:+OK pass success, authorized
+[DEBUG][22-30-24][com.example.smtpclient.email_package.getter.GetterClientHandler]95259be1command:3rev:+OK 0 0
+[DEBUG][22-30-24][com.example.smtpclient.email_package.getter.GetterClientHandler]95259be1command:4rev:+OK quit success, bye
+[INFO][22-30-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 10:30:49: 95259be1断开连接
+[INFO][22-30-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-31-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-31-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 10:31:04: 982cbcfffe793b37-00000988-00000004-1a69ef5db73dd1f2-f64ada0a与服务器建立连接
+[INFO][22-31-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-31-24][com.example.smtpclient.email_package.getter.GetterClientHandler]f64ada0acommand:0rev:+OK pop3 server ready
+[DEBUG][22-31-24][com.example.smtpclient.email_package.getter.GetterClientHandler]f64ada0acommand:1rev:+OK user success
+[DEBUG][22-31-24][com.example.smtpclient.email_package.getter.GetterClientHandler]f64ada0acommand:2rev:+OK pass success, authorized
+[DEBUG][22-31-24][com.example.smtpclient.email_package.getter.GetterClientHandler]f64ada0acommand:3rev:+OK 0 0
+[DEBUG][22-31-24][com.example.smtpclient.email_package.getter.GetterClientHandler]f64ada0acommand:4rev:+OK quit success, bye
+[INFO][22-31-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 10:31:05: f64ada0a断开连接
+[INFO][22-31-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-35-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-35-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 10:35:17: 982cbcfffe793b37-00000988-00000005-0e55624e4931ab16-0084ad89与服务器建立连接
+[INFO][22-35-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-35-24][com.example.smtpclient.email_package.getter.GetterClientHandler]0084ad89command:0rev:+OK pop3 server ready
+[DEBUG][22-35-24][com.example.smtpclient.email_package.getter.GetterClientHandler]0084ad89command:1rev:+OK user success
+[DEBUG][22-35-24][com.example.smtpclient.email_package.getter.GetterClientHandler]0084ad89command:2rev:+OK pass success, authorized
+[DEBUG][22-35-24][com.example.smtpclient.email_package.getter.GetterClientHandler]0084ad89command:3rev:+OK 0 0
+[DEBUG][22-35-24][com.example.smtpclient.email_package.getter.GetterClientHandler]0084ad89command:4rev:+OK quit success, bye
+[INFO][22-35-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 10:35:17: 0084ad89断开连接
+[INFO][22-35-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-35-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-35-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-42-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-42-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-45-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-06-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-06-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-12-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-18-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-18-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-19-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-19-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-19-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-20-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-20-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-21-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-22-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-22-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-25-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-33-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-34-24][com.example.smtpclient.controller.UserController]updateUser
+[INFO][22-34-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-35-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-36-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-38-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-29-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-29-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-32-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-32-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-44-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-47-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-49-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-49-24][com.example.smtpclient.controller.UserController]updateUser
+[INFO][22-50-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-52-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-54-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-54-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-54-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-54-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-55-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-55-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-55-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-55-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 12:55:40: 982cbcfffe793b37-00005d3c-00000000-2e02583e94ad2fde-80baf369与服务器建立连接
+[INFO][22-55-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-55-24][com.example.smtpclient.email_package.getter.GetterClientHandler]80baf369command:0rev:+OK pop3 server ready
+[DEBUG][22-55-24][com.example.smtpclient.email_package.getter.GetterClientHandler]80baf369command:1rev:+OK user success
+[DEBUG][22-55-24][com.example.smtpclient.email_package.getter.GetterClientHandler]80baf369command:2rev:+OK pass success, authorized
+[DEBUG][22-55-24][com.example.smtpclient.email_package.getter.GetterClientHandler]80baf369command:3rev:+OK 0 0
+[DEBUG][22-55-24][com.example.smtpclient.email_package.getter.GetterClientHandler]80baf369command:4rev:+OK quit success, bye
+[INFO][22-55-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 12:55:41: 80baf369断开连接
+[INFO][22-55-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-55-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-59-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-59-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-01-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-05-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-48-24][com.example.smtpclient.controller.UserController]/deleteUser
+[INFO][22-48-24][com.example.smtpclient.controller.UserController]/deleteUser
+[INFO][22-49-24][com.example.smtpclient.controller.UserController]/deleteUser
+[INFO][22-51-24][com.example.smtpclient.controller.UserController]/deleteUser
+[INFO][22-52-24][com.example.smtpclient.controller.UserController]/deleteUser
+[INFO][22-38-24][com.example.smtpclient.controller.UserController]/deleteUser
+[INFO][22-39-24][com.example.smtpclient.controller.UserController]/deleteUser
+[INFO][22-39-24][com.example.smtpclient.controller.UserController]/changePassword
+[INFO][22-44-24][com.example.smtpclient.controller.LoginController]/login
+[INFO][22-44-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-44-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 21:44:06: 982cbcfffe793b37-00003a54-00000000-3107d063cdb1fe1f-f9afc545与服务器建立连接
+[INFO][22-44-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-44-24][com.example.smtpclient.email_package.getter.GetterClientHandler]f9afc545command:0rev:+OK pop3 server ready
+[DEBUG][22-44-24][com.example.smtpclient.email_package.getter.GetterClientHandler]f9afc545command:1rev:+OK user success
+[DEBUG][22-44-24][com.example.smtpclient.email_package.getter.GetterClientHandler]f9afc545command:2rev:-ERR authentication error, user <account> expected
+[INFO][22-44-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 21:44:06: f9afc545断开连接
+[INFO][22-44-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-44-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-46-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-46-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 21:46:34: 982cbcfffe793b37-00003a54-00000001-12fa6f4209af40ab-36f36d6e与服务器建立连接
+[INFO][22-46-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-46-24][com.example.smtpclient.email_package.getter.GetterClientHandler]36f36d6ecommand:0rev:+OK pop3 server ready
+[DEBUG][22-46-24][com.example.smtpclient.email_package.getter.GetterClientHandler]36f36d6ecommand:1rev:+OK user success
+[DEBUG][22-46-24][com.example.smtpclient.email_package.getter.GetterClientHandler]36f36d6ecommand:2rev:-ERR authentication error, user <account> expected
+[INFO][22-46-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 21:46:34: 36f36d6e断开连接
+[INFO][22-46-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-46-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-46-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-46-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-46-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-48-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-48-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-49-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-55-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-16-24][com.example.smtpclient.controller.ServerController]getServerParams
+[INFO][22-16-24][com.example.smtpclient.controller.ServerController]getServerParams
+[INFO][22-19-24][com.example.smtpclient.controller.ServerController]getServerParams
+[INFO][22-24-24][com.example.smtpclient.controller.ServerController]getServerParams
+[INFO][22-30-24][com.example.smtpclient.controller.UserController]judgeAccountValid
+[INFO][22-30-24][com.example.smtpclient.controller.UserController]/registerUser
+[INFO][22-33-24][com.example.smtpclient.controller.ServerController]getServerParams
+[INFO][22-33-24][com.example.smtpclient.controller.UserController]judgeAccountValid
+[INFO][22-33-24][com.example.smtpclient.controller.UserController]/registerUser
+[INFO][22-33-24][com.example.smtpclient.controller.LoginController]/login
+[INFO][22-34-24][com.example.smtpclient.controller.ServerController]getServerParams
+[INFO][22-35-24][com.example.smtpclient.controller.UserController]judgeAccountValid
+[INFO][22-35-24][com.example.smtpclient.controller.UserController]/registerUser
+[INFO][22-35-24][com.example.smtpclient.controller.LoginController]/login
+[INFO][22-58-24][com.example.smtpclient.controller.UserController]uploadAvatar
+[INFO][22-58-24][com.example.smtpclient.controller.UserController]uploadAvatar
+[INFO][22-11-24][com.example.smtpclient.controller.UserController]updateUser
+[INFO][22-11-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-11-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:11:14: 982cbcfffe793b37-00003a54-00000002-256b22ef4fbec316-c4965339与服务器建立连接
+[INFO][22-11-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-11-24][com.example.smtpclient.email_package.getter.GetterClientHandler]c4965339command:0rev:+OK pop3 server ready
+[DEBUG][22-11-24][com.example.smtpclient.email_package.getter.GetterClientHandler]c4965339command:1rev:+OK user success
+[DEBUG][22-11-24][com.example.smtpclient.email_package.getter.GetterClientHandler]c4965339command:2rev:-ERR authentication error, user <account> expected
+[INFO][22-11-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:11:14: c4965339断开连接
+[INFO][22-11-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-12-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-12-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:12:36: 982cbcfffe793b37-00003a54-00000003-327379dc7b810645-bbfb9a1b与服务器建立连接
+[INFO][22-12-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-12-24][com.example.smtpclient.email_package.getter.GetterClientHandler]bbfb9a1bcommand:0rev:+OK pop3 server ready
+[DEBUG][22-12-24][com.example.smtpclient.email_package.getter.GetterClientHandler]bbfb9a1bcommand:1rev:+OK user success
+[DEBUG][22-12-24][com.example.smtpclient.email_package.getter.GetterClientHandler]bbfb9a1bcommand:2rev:-ERR authentication error, user <account> expected
+[INFO][22-12-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:12:37: bbfb9a1b断开连接
+[INFO][22-12-24][com.example.smtpclient.controller.EmailController]getStared
+[INFO][22-12-24][com.example.smtpclient.controller.EmailController]getDraft
+[INFO][22-12-24][com.example.smtpclient.controller.EmailController]getSend
+[INFO][22-12-24][com.example.smtpclient.controller.EmailController]getDeleted
+[INFO][22-15-24][com.example.smtpclient.controller.UserController]updateUser
+[INFO][22-15-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-15-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:15:24: 982cbcfffe793b37-00003a54-00000004-082d8ce4ed82934f-910fcc7b与服务器建立连接
+[INFO][22-15-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-15-24][com.example.smtpclient.email_package.getter.GetterClientHandler]910fcc7bcommand:0rev:+OK pop3 server ready
+[DEBUG][22-15-24][com.example.smtpclient.email_package.getter.GetterClientHandler]910fcc7bcommand:1rev:+OK user success
+[DEBUG][22-15-24][com.example.smtpclient.email_package.getter.GetterClientHandler]910fcc7bcommand:2rev:-ERR authentication error, user <account> expected
+[INFO][22-15-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:15:24: 910fcc7b断开连接
+[INFO][22-17-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-17-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:17:19: 982cbcfffe793b37-00003a54-00000005-13fef0f0398556b6-11acfb3c与服务器建立连接
+[INFO][22-17-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-17-24][com.example.smtpclient.email_package.getter.GetterClientHandler]11acfb3ccommand:0rev:+OK pop3 server ready
+[DEBUG][22-17-24][com.example.smtpclient.email_package.getter.GetterClientHandler]11acfb3ccommand:1rev:+OK user success
+[DEBUG][22-17-24][com.example.smtpclient.email_package.getter.GetterClientHandler]11acfb3ccommand:2rev:-ERR authentication error, user <account> expected
+[INFO][22-17-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:17:19: 11acfb3c断开连接
+[INFO][22-18-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-18-24][com.example.smtpclient.controller.UserController]updateUser
+[INFO][22-18-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-18-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:18:32: 982cbcfffe793b37-00003a54-00000006-0831d628d6047468-0cbc04d6与服务器建立连接
+[INFO][22-18-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-18-24][com.example.smtpclient.email_package.getter.GetterClientHandler]0cbc04d6command:0rev:+OK pop3 server ready
+[DEBUG][22-18-24][com.example.smtpclient.email_package.getter.GetterClientHandler]0cbc04d6command:1rev:+OK user success
+[DEBUG][22-18-24][com.example.smtpclient.email_package.getter.GetterClientHandler]0cbc04d6command:2rev:-ERR authentication error, user <account> expected
+[INFO][22-18-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:18:33: 0cbc04d6断开连接
+[INFO][22-18-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-19-24][com.example.smtpclient.controller.UserController]updateUser
+[INFO][22-19-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-19-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:19:37: 982cbcfffe793b37-00003a54-00000007-191b50783e0770b2-7ccb9596与服务器建立连接
+[INFO][22-19-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-19-24][com.example.smtpclient.email_package.getter.GetterClientHandler]7ccb9596command:0rev:+OK pop3 server ready
+[DEBUG][22-19-24][com.example.smtpclient.email_package.getter.GetterClientHandler]7ccb9596command:1rev:+OK user success
+[DEBUG][22-19-24][com.example.smtpclient.email_package.getter.GetterClientHandler]7ccb9596command:2rev:-ERR authentication error, user <account> expected
+[INFO][22-19-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:19:37: 7ccb9596断开连接
+[INFO][22-19-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-21-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-22-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-23-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-23-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-24-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-24-24][com.example.smtpclient.controller.EmailController]getDeleted
+[INFO][22-24-24][com.example.smtpclient.controller.EmailController]getSend
+[INFO][22-24-24][com.example.smtpclient.controller.EmailController]getDraft
+[INFO][22-24-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-24-24][com.example.smtpclient.controller.ServerController]getServerParams
+[INFO][22-25-24][com.example.smtpclient.controller.ServerController]getServerParams
+[INFO][22-25-24][com.example.smtpclient.controller.ServerController]getServerParams
+[INFO][22-26-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-30-24][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-30-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:30:33: 982cbcfffe793b37-000039d0-00000000-3f95cbc723117399-9f60ae7e与服务器建立连接
+[INFO][22-30-24][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-30-24][com.example.smtpclient.email_package.getter.GetterClientHandler]9f60ae7ecommand:0rev:+OK pop3 server ready
+[DEBUG][22-30-24][com.example.smtpclient.email_package.getter.GetterClientHandler]9f60ae7ecommand:1rev:+OK user success
+[DEBUG][22-30-24][com.example.smtpclient.email_package.getter.GetterClientHandler]9f60ae7ecommand:2rev:-ERR authentication error, user <account> expected
+[INFO][22-30-24][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-24 23:30:34: 9f60ae7e断开连接
+[INFO][22-36-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-46-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-46-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-46-24][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-00-25][com.example.smtpclient.service.impl.EmailServiceImpl]定时任务：自动清理删除达三十天的邮件
+[INFO][22-53-25][com.example.smtpclient.controller.EmailController]getEmail
+[INFO][22-53-25][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-25 00:53:10: 982cbcfffe793b37-000039d0-00000001-21d82b0882ad1796-f8e11cd3与服务器建立连接
+[INFO][22-53-25][com.example.smtpclient.email_package.getter.GetterClient]110.40.230.26 110连接pop3成功
+[DEBUG][22-53-25][com.example.smtpclient.email_package.getter.GetterClientHandler]f8e11cd3command:0rev:+OK pop3 server ready
+[DEBUG][22-53-25][com.example.smtpclient.email_package.getter.GetterClientHandler]f8e11cd3command:1rev:+OK user success
+[DEBUG][22-53-25][com.example.smtpclient.email_package.getter.GetterClientHandler]f8e11cd3command:2rev:-ERR authentication error, user <account> expected
+[INFO][22-53-25][com.example.smtpclient.email_package.getter.GetterClientHandler]2022-05-25 00:53:11: f8e11cd3断开连接
+[INFO][22-53-25][com.example.smtpclient.controller.UserController]/getUserInfo
+[INFO][22-27-25][com.example.smtpclient.controller.EmailController]sendEmail
+[INFO][22-27-25][com.example.smtpclient.email_package.sender.SenderClientHandler]2022-05-25 17:27:34: 982cbcfffe793b37-000023bc-00000000-1ce1d6c0b4897cb3-9581408c与服务器建立连接
+[INFO][22-27-25][com.example.smtpclient.email_package.sender.SenderClient]110.40.230.26 25连接smtp成功
+[INFO][22-27-25][com.example.smtpclient.email_package.sender.SenderClientHandler]2022-05-25 17:27:34: 9581408c断开连接
+[INFO][22-48-25][com.example.smtpclient.controller.EmailController]sendEmail
+[INFO][22-48-25][com.example.smtpclient.email_package.sender.SenderClientHandler]2022-05-25 17:48:56: 982cbcfffe793b37-000023bc-00000001-06dfc5eec31d0bdc-d1b43634与服务器建立连接
+[INFO][22-48-25][com.example.smtpclient.email_package.sender.SenderClient]110.40.230.26 25连接smtp成功
+[INFO][22-48-25][com.example.smtpclient.email_package.sender.SenderClientHandler]2022-05-25 17:48:56: d1b43634断开连接
